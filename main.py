@@ -1,5 +1,5 @@
 def inc(x):
     return x + 1
 
-def dec(x)
+def dec(x):
     return x - 1
