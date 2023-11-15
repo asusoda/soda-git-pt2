@@ -1,6 +1,5 @@
 def inc(x):
     return x + 1
 
-def dec(x):
-    print('bloat')
+def dec(x)
     return x - 1
