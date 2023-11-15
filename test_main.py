@@ -1,7 +1,5 @@
 import main
 
-# content of test_sample.py
-
-
-def test_answer():
+### TEST CASES ###
+def test_inc():
     assert main.inc(3) == 4
